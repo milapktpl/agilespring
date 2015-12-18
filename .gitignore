@@ -1,1 +1,4 @@
 AgileSpring/nb-configuration.xml
+/AgileSpring/target/
+AgileSpring/.project
+AgileSpring/.settings/org.eclipse.m2e.core.prefs
